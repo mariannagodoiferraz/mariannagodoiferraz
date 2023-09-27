@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @mariannagodoiferraz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mariannagodoiferraz/mariannagodoiferraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Bem vindo ao meu perfil🤙 
+### Me chamo Marianna 
+![](https://media.tenor.com/tIWicdRJ-wQAAAAC/love-you-lots-kiss.gif) ![](https://media.tenor.com/0wubNx76L5QAAAAM/cruce-yocruce.gif)
